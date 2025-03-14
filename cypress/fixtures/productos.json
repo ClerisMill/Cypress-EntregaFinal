@@ -1,0 +1,24 @@
+{
+    "producto1": {
+        "name": "Sweater rosa",
+        "unitPrice":"14.86",
+        "quantity": "2"
+
+    },
+
+    "producto2":{
+        "name": "Campera Negra",
+        "unitPrice":"20.14",
+        "quantity": "1"
+    },
+
+    "buyer":{
+        "name": "Cleris",
+        "Lastname": "Mill",
+        "creditCard": "123451234512345"
+
+    }
+
+
+
+}
