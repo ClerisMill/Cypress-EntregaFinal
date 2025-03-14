@@ -1,24 +1,28 @@
 {
     "producto1": {
         "name": "Sweater rosa",
-        "unitPrice":"14.86",
-        "quantity": "2"
+        "unitPrice": 14.86,
+        "quantity": "1"
 
     },
 
     "producto2":{
         "name": "Campera Negra",
-        "unitPrice":"20.14",
+        "unitPrice": 20.14,
         "quantity": "1"
     },
 
     "buyer":{
         "name": "Cleris",
         "Lastname": "Mill",
-        "creditCard": "123451234512345"
+        "creditCard": "1234512345123456"
 
+    },
+
+    "mensajes":{
+            "mensaje": "Purchase has been completed successfully",
+            "mensaje1": "has succesfully purchased the following items:"
     }
-
 
 
 }
